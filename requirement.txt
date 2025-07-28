@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+faiss-cpu
+sentence-transformers
+pypdf
+Pillow
+rank-bm25
+ragas
+python-dotenv
