@@ -1,8 +1,8 @@
 streamlit
-langchain
-langchain-openai
 faiss-cpu
 sentence-transformers
+langchain
+langchain-openai
 pypdf
 Pillow
 rank-bm25
